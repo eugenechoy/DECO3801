@@ -1,0 +1,96 @@
+h2{
+  font-family: Montserrat;
+  font-weight: 900;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #F2F2F2;
+}
+
+p{
+  color: #A3A3A3;
+  padding-left: 65px;
+  padding-right: 31px;
+}
+
+#testing{
+  padding: 6% 15%;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/adult-career-clipboard-1919236.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  background-attachment: fixed;
+}
+
+.instruction{
+  margin: 3% auto;
+  text-align: center;
+}
+
+.glasses-icon{
+  text-align: center;
+  color: white;
+  margin: 7% auto;
+}
+
+.text-box{
+  text-align: left;
+  color: white;
+  margin: 7% auto;
+}
+
+.text-box h3{
+  width: 60%;
+}
+
+
+
+.keys{
+  max-width: 15%;
+  height: auto;
+  margin: auto 3%;
+}
+
+.space-key{
+  margin: auto 3%;
+  height: 44.453px;
+}
+
+.keyboard{
+  padding-left: 43%;
+}
+
+.keyboardAndKeys{
+  margin-top: 45px;
+}
+
+.glassesTextBox{
+  margin-top: 50px;
+}
+
+
+
+.red-ball{
+  width: 40%;
+  margin-left: 30%;
+}
+
+.red-ball-instruction{
+  text-align: center;
+}
+
+.red-ball-instruction-text{
+  margin-top: 10px;
+}
+
+.fas,.far {
+  margin-left: 30%;
+}
+
+.Vkey{
+  width: 13%;
+}
+
+.spaceKey{
+  width: 20%
+}

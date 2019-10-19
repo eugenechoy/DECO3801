@@ -1,0 +1,45 @@
+
+
+/* IPad to laptop */
+@media only screen and (max-width: 1200px) {
+    .hero-text-box {
+        width: 100%;
+        padding: 0 2%;
+    }
+    .row{ padding: 0 2%; }
+}
+
+
+
+
+
+/* IPad */
+@media only screen and (max-width: 1023px) {
+    body { font-size: 18px; }
+    section { padding: 60px 0; }
+    
+    .desc-text {
+        width: 80%;
+        margin-left: 10%;
+    }
+    
+    .about-box { margin-top: 10px; }
+    .about-box:last-child {margin-top:10px}
+    
+}
+
+
+
+
+/* Phones smaller than iPad */
+@media only screen and (max-width: 767px) {
+    
+}
+
+
+
+
+/* Iphone 4/5 */
+@media only screen and (max-width: 480px) {
+    
+}
